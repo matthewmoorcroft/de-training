@@ -1,4 +1,4 @@
-Create or replace table user_distribution
+Create or replace table mm_dublin_training.gold.user_distribution
 as select
 job_role,
 count(1) as headcount

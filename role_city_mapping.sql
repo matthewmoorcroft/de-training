@@ -1,4 +1,4 @@
-Create or replace table role_city_mapping
+Create or replace table mm_dublin_training.gold.role_city_mapping
 as select
 job_role,
 city,

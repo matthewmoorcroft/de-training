@@ -24,6 +24,7 @@ target_file_path = f"/Volumes/{my_catalog}/bronze/{my_volume}/pulse_data.csv"
 
 # DBTITLE 1,Create Silver Table
 from pyspark.sql.functions import split
+from pyspark.sql.types import IntegerType
 
 silver_df = spark.read.table(f"{my_catalog}.bronze.raw_pulse_data")
 
