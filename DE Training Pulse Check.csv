@@ -1,0 +1,43 @@
+"Timestamp","What is your current role?","Do you prefer to do hands-on session or more of theory with Q&A?
+Note: With hands-on session, we might not be able to cover all topics","How familiar are you with Databricks?","Exercise:
+The most interesting city that you have visited and rate it as per scale of 1 to 5.
+
+[city] - 1: Lowest
+[city] - 5: Highest
+
+Sample response: Amsterdam - 5"
+"2024/04/10 1:14:18 pm CET","Data Architect","Hands-on session","Familiar with Unity Catalog, Delta Live Table and Databricks SQL","Los Angeles - 5"
+"2024/04/10 1:14:34 pm CET","Data Analyst","Hands-on session","Not familiar with the Databricks","Dublin - 4"
+"2024/04/10 1:14:34 pm CET","Data Engineer","Hands-on session","Limited usage with basics of Spark","Amsterdam -4"
+"2024/04/10 1:14:34 pm CET","Data Engineer","Hands-on session","Limited usage with basics of Spark","Dubai - 3.5"
+"2024/04/10 1:14:36 pm CET","Data Analyst","Theory with Q&A","Not familiar with the Databricks","Dublin -4"
+"2024/04/10 1:14:44 pm CET","Data Engineer","Hands-on session","Limited usage with basics of Spark","Istanbul"
+"2024/04/10 1:15:16 pm CET","Data Scientist","Hands-on session","Not familiar with the Databricks","Verona - 5"
+"2024/04/10 1:15:36 pm CET","BI Engineer/Developer","Hands-on session","Limited usage with basics of Spark","Berlin - 5"
+"2024/04/10 1:15:44 pm CET","Data Engineer","Hands-on session","Familiar with Unity Catalog, Delta Live Table and Databricks SQL","Cordoba - 5"
+"2024/04/10 1:15:44 pm CET","Business consultant ","Hands-on session","Not familiar with the Databricks","Moscow - 5"
+"2024/04/10 1:16:05 pm CET","Data Architect","Mix","Limited usage with basics of Spark","Rome - 5"
+"2024/04/10 1:16:08 pm CET","Data Engineer","Theory with Q&A","Familiar with Unity Catalog, Delta Live Table and Databricks SQL","Broome - 5"
+"2024/04/10 1:16:10 pm CET","Regulatory Analyst","Hands-on session","Not familiar with the Databricks","Bologna - 4"
+"2024/04/10 1:16:36 pm CET","Data Analyst","Hands-on session","Not familiar with the Databricks","Reikjavick - 5"
+"2024/04/10 1:16:48 pm CET","BI Engineer/Developer","Hands-on session","Not familiar with the Databricks","London 3"
+"2024/04/10 1:17:04 pm CET","Cloud Engineer","Hands-on session","Limited usage with basics of Spark","Budapest - 5"
+"2024/04/10 1:18:02 pm CET","Data Engineer","Hands-on session","Not familiar with the Databricks","Barcelona 5"
+"2024/04/10 1:18:04 pm CET","Data Analyst","Hands-on session","Limited usage with basics of Spark","Leeds - 4"
+"2024/04/10 1:18:06 pm CET","Data Analyst","Hands-on session","Not familiar with the Databricks","Delft - 5"
+"2024/04/10 1:18:07 pm CET","Data Engineer","Hands-on session","Not familiar with the Databricks","Edinburgh- 5"
+"2024/04/10 1:18:07 pm CET","Manager","Theory with Q&A","Not familiar with the Databricks","Moscow - 5"
+"2024/04/10 1:18:24 pm CET","Data Analyst","Hands-on session","Not familiar with the Databricks","1"
+"2024/04/10 1:18:41 pm CET","Data Engineer","Hands-on session","Not familiar with the Databricks","Rajasthan - 4"
+"2024/04/10 1:18:51 pm CET","Data Scientist","Hands-on session","Limited usage with basics of Spark","Bucharest5"
+"2024/04/10 1:18:51 pm CET","Intern","Hands-on session","Not familiar with the Databricks","Lusaka - 5"
+"2024/04/10 1:18:54 pm CET","Data Engineer","Hands-on session","Familiar with Unity Catalog, Delta Live Table and Databricks SQL","London - 5"
+"2024/04/10 1:18:55 pm CET","Data Engineer","Hands-on session","Familiar with Unity Catalog, Delta Live Table and Databricks SQL","4"
+"2024/04/10 1:19:08 pm CET","BI Manager","Hands-on session","Limited usage with basics of Spark","Amsterdam - 5"
+"2024/04/10 1:19:13 pm CET","Data Analyst","Hands-on session","Not familiar with the Databricks","Bangkok - 5"
+"2024/04/10 1:19:20 pm CET","Graduate trainee","Hands-on session","Familiar with Unity Catalog, Delta Live Table and Databricks SQL","Amsterdam 3"
+"2024/04/10 1:19:21 pm CET","Data Analyst","Hands-on session","Limited usage with basics of Spark","Krakow - 5"
+"2024/04/10 1:19:22 pm CET","Data Engineer","Theory with Q&A","Limited usage with basics of Spark","Rome - 4"
+"2024/04/10 1:19:23 pm CET","Product Owner","Hands-on session","Not familiar with the Databricks","Lagos - 4"
+"2024/04/10 1:19:36 pm CET","Data Analyst","Hands-on session","Limited usage with basics of Spark","Tokyo 5"
+"2024/04/10 1:21:00 pm CET","Enterprise Architect","Hands-on session","Not familiar with the Databricks","Rome - 5"
